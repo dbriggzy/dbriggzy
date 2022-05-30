@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dbriggzy
+- 👀 I’m interested in computer science and its role inside our day to day lives.
+- 🌱 I’m currently learning the ins and outs of coding through the beginning of my computer science major.
+- 💞️ I’m looking to collaborate on any projects that include critical thinking.
+- 📫 How to reach me dbriggs2481@gmail.com
